@@ -1,2 +1,2 @@
-# USempl-Streaks-2024-05
-Data, code, and images for analyses in "US Labor Market: The Resilient 'Streak'er". The main file in this repository for replicating the analyses is the Jupyter notebook []().
+# Resources for "US Labor Market: The Resilient 'Streak'er"
+Data, code, and images for analyses in "[US Labor Market: The Resilient 'Streak'er](https://rickecon.substack.com/p/us-labor-market-the-resilient-streaker)" by Richard W. Evans. The main file in this repository for replicating the analyses is the Jupyter notebook https://github.com/OpenSourceEcon/USempl-Streaks-2024-05/blob/main/USemplStreaks.ipynb.
